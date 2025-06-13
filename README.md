@@ -12,12 +12,12 @@
 
 1. Клонируйте репозиторий:
     ```sh
-    git clone https://github.com/yourusername/DJ01.git
+    git clone https://github.com/yourusername/DJ02.git
     ```
 
 2. Перейдите в директорию проекта:
     ```sh
-    cd DJ01
+    cd DJ02
     ```
 
 3. Создайте и активируйте виртуальное окружение:
